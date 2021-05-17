@@ -1,3 +1,3 @@
-# Fetchmint | Javascript Development and Microsoft Dynamics 365 Consulting
+# Fetchmint | Javascript Development, Salesforce and Dynamics 365 Consulting
 
-Fetchmint is the freelance company of Kristof Schockaert, providing JavaScript Development and Microsoft Dynamics 365 Consulting services.
+Fetchmint is the freelance company of Kristof Schockaert, providing JavaScript Development, Salesforce and Dynamics 365 Consulting services.
